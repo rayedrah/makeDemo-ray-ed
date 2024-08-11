@@ -1,11 +1,8 @@
-/*
-example include file
-*/
+// hellomake.h
+#ifndef HELLOMAKE_H
+#define HELLOMAKE_H
 
-void myPrintHelloMake(void
+void myPrintHelloMake(void);
 
-/*
-The compilation won't work because I broke something... whoops!
+#endif
 
-void myPrintHelloMake(void); might work better. 
-*/
